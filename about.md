@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+I am an active ML learner. I enjoy modeling the world and letting the bytes to generalize it.
